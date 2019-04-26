@@ -2,7 +2,7 @@ package com.hncboy.design.principle.openclose;
 
 /**
  * Created by IntelliJ IDEA.
- * User: hncboy
+ * Hncboy: hncboy
  * Date: 2019-04-22
  * Time: 19:58
  */
